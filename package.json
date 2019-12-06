@@ -7,7 +7,7 @@
     "b64-to-blob": "^1.2.19",
     "dotenv": "^6.1.0",
     "enzyme": "^3.7.0",
-    "enzyme-adapter-react-16": "^1.7.0",
+    "enzyme-adapter-react-16": "^1.15.1",
     "file-saver": "^2.0.0",
     "konva": "^2.5.1",
     "pouchdb": "^7.0.0",
